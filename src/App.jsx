@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      <h1>I am VBJ</h1>
+      <h1>I am GOAT</h1>
     </>
   )
 }
